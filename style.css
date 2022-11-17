@@ -114,6 +114,9 @@ body{
     color: #fff;
     font-weight: 300;
 }
+.contactinfo ul li a{
+    color: #fff;
+}
 .contactinfo .education li{
     margin: 15px;
 }
